@@ -71,15 +71,13 @@ B. Fragment Distance (10 Km → 6.21 Miles)Formule utilisée : $Miles = Km \time
 });
 5. Résumé des TestsType de conversionEntréeFormuleRésultat AttenduTempérature25$x \times 1.8 + 32$77.00 °FDistance10$x \times 0.621$6.21 miles
 
----
 
-## Vidéo de démonstration
-
-https://github.com/user-attachments/assets/4e47bce0-f9d3-4fea-a453-e43945640d7f
+![WhatsApp Image 2026-01-07 at 14 27 24](https://github.com/user-attachments/assets/58d6bc06-b63e-472c-adca-9bfe695c3abd)
 
 
 
 
+![WhatsApp Image 2026-01-07 at 14 27 23](https://github.com/user-attachments/assets/e0ab8cf3-ccd4-49ca-b451-58811bd9243c)
 
 
 
